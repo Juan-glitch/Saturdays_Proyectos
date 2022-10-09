@@ -1,0 +1,10 @@
+scikit-learn
+numpy
+joblib
+threadpoolctl
+cython
+matplotlib
+scikit-image
+pandas
+Pillow
+numpydoc

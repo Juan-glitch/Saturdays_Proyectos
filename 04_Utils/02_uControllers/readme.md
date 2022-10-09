@@ -1,0 +1,3 @@
+- For more information about how to make the project ask Professor Juan Jose Arin
+     - telefone: +34 685 758 548
+     - email: jjarin001@gmail.com
